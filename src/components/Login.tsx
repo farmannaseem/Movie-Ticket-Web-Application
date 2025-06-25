@@ -24,7 +24,7 @@ export default function Login() {
     e.preventDefault();
     if (username === VALID_CREDENTIALS.username && 
         password === VALID_CREDENTIALS.password) {
-      setUser({ username, isAuthenticated: true });
+      setUser({ username: username, isAuthenticated: true });
       navigate('/booking');
     } else {
       toast.error('Invalid username or password');

@@ -44,7 +44,9 @@ export default function Selection() {
       ticketCount: ticketCount,
       time: time,
       date: date,
-      amount: ticketCount * 25
+      amount: ticketCount * 25,
+      seatNumber: 'A1', // Example seat number
+      newTicket: true // Example flag for new ticket
     };
 
     // Simulate API call
