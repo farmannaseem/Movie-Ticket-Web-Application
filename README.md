@@ -21,4 +21,9 @@ A modern React application for booking movie tickets, built with TypeScript and 
 - **React Hot Toast**: For user notifications
 - **Vite**: For fast development and optimized builds
 
-## 📁 Project Structure 
+## 📁 ScreenShots
+
+![Homepage](Screenshot%20(222).png)
+![BookingPage](Screenshot%20(223).png)
+![ActivityPage](Screenshot%20(224).png)
+
