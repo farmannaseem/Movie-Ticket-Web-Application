@@ -11,10 +11,9 @@ import {
 } from './styles/Login.styles';
 
 const VALID_CREDENTIALS = {
-  username: "naval.ravikant",
-  password: "05111974"
+  username: "Farman123",
+  password: "Farman@321"
 };
-
 export default function Login() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
